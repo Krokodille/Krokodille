@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krokodille - Patrick
+- 👋 Hi, I’m Patrick Ingeberg
 - 👀 I’m interested in frontend & android devolopment
 - 🌱 I’m currently learning React
 - 📫 How to reach me patrick@pating.no
